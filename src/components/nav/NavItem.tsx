@@ -1,4 +1,3 @@
-import React from 'react'
 import { NavItemProps} from '../../models/props.d'
 
 export const NavItem = ({text}:NavItemProps) => {
