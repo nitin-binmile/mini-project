@@ -1,6 +1,6 @@
 
 
-export const FeatureImage = () => {
+export const FeatureImage: React.FC = () => {
   return (
     <div className="w-[350px] lg:w-[600px] xl:w-[700px]  overflow-hidden ">
       <img src="assets/mobile.png" className="lg:hidden w-[100%]" />

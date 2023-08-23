@@ -1,6 +1,6 @@
 
 
-export const Logo = () => {
+export const Logo: React.FC = () => {
   return (
     <div className="w-[69px] h-[69px]">
     <svg

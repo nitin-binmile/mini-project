@@ -1,7 +1,7 @@
 import { NavList } from "./NavList";
 import { Button } from "../Button/Button";
 
-const NavCollaps = () => {
+const NavCollaps: React.FC = () => {
   return (
     <div className="flex justify-end lg:justify-between  w-full list-none">
       <div className="hidden  lg:flex justify-between  w-full list-none">
